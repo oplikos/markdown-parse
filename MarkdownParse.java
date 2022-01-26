@@ -9,26 +9,24 @@ import java.util.ArrayList;
 public class MarkdownParse {
     public static ArrayList<String> getLinks(String markdown) {
         ArrayList<String> toReturn = new ArrayList<>();
-        
-        int currentIndex = 0, nextOpenBracket = 0, nextCloseBracket = 0, openParen = 0, closeParen = 0;
-        while (currentIndex < markdown.length()) {
+        int currentIndex = 0, nextOpenBracket = 0, nextCloseBracket = 0, openParen = 0, closeParen = 0,nextLine;
+        while(currentIndex < markdown.length()) {
             nextOpenBracket = markdown.indexOf("[", currentIndex);
-
-            if (nextOpenBracket != -1) { // if there is an open bracket
-                nextCloseBracket = markdown.indexOf("]", nextOpenBracket); // find its closed bracket
-            } else { // else there is no open bracket
-                nextCloseBracket = currentIndex + 1;
-            }
-
+            nextCloseBracket = markdown.indexOf("]", nextOpenBracket);
             openParen = markdown.indexOf("(", nextCloseBracket);
-
-            if (openParen != -1) { // if there is an open parenthesis
-                closeParen = markdown.indexOf(")", openParen); // find its closed parenthesis
-            } else { // else there is no open parenthesis
-                openParen = nextCloseBracket + 1;// yeah i think this should be nextclosebracket
-                closeParen = markdown.indexOf("\n", openParen);
+            closeParen = markdown.indexOf(")", openParen);
+            nextLine = markdown.indexOf("\n", nextOpenBracket);
+            //when one of this is less the 0 which means the char is not in the file 
+            if (nextOpenBracket < 0 || nextCloseBracket < 0 || openParen < 0 || closeParen < 0) {
+                break;
             }
-            toReturn.add(markdown.substring(openParen  , closeParen));
+            //check where tho start
+            if (markdown.charAt(nextOpenBracket-1) != '[' || markdown.charAt(openParen - 1) != ']' || nextLine < closeParen) {
+                currentIndex = closeParen + 1;
+                continue;
+            }
+
+            toReturn.add(markdown.substring(openParen + 1, closeParen));
             currentIndex = closeParen + 1;
         }
         return toReturn;
