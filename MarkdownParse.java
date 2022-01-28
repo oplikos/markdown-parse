@@ -17,7 +17,6 @@ public class MarkdownParse {
             char[] strs = { '(',')','[',']','\n'};
             for(char st:strs)
                 stopCharacters.add(st); 
-            
         //initilizing all variabls
         int currentIndex = 0,startIndex = 0 , endIndex = 0,nextPeriodIndex =0 ;
         //check for '.' in the file (if exsist that means there is a link)
@@ -37,13 +36,7 @@ public class MarkdownParse {
             startIndex = periodIndex;
             endIndex = periodIndex;
             while(startIndex >= 0) {
-                if(debug){
-                    System.out.println(startIndex);
-                    System.out.println(endIndex);
-                }
                 if(stopCharacters.contains(markdown.charAt(startIndex))) {
-                    if(debug)
-                        System.out.println(markdown.charAt(startIndex));
                     startIndex++;
                     break;
                 }
@@ -51,8 +44,6 @@ public class MarkdownParse {
             }
             while(endIndex < markdown.length()) {
                 if(stopCharacters.contains(markdown.charAt(endIndex))) {
-                    if(debug)
-                        System.out.println(markdown.charAt(endIndex));
                     endIndex--;
                     break;
                 }
