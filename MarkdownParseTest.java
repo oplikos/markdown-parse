@@ -13,6 +13,7 @@ public class MarkdownParseTest {
         String contents = Files.readString(fileName);
         assertEquals(List.of("https://something.com", "some-page.html"), MarkdownParse.getLinks(contents));
     }
+    
     @Test
     public void testOneLinkMethod() throws IOException {
         Path fileName = Path.of("markdown-new-test.md");
