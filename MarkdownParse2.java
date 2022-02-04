@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 
-public class MarkdownParse {
+public class MarkdownParse2 {
     public static ArrayList<String> getLinks(String markdown) {
         ArrayList<String> toReturn = new ArrayList<>();
         int currentIndex = 0, nextOpenBracket = 0, nextCloseBracket = 0, openParen = 0, closeParen = 0,nextLine;
@@ -20,7 +20,7 @@ public class MarkdownParse {
                 break;
             }
             //check where tho start
-            if (markdown.charAt(nextOpenBracket-1)== '!' || markdown.charAt(openParen - 1) != ']' || nextLine < closeParen) {
+            if (markdown.charAt(nextOpenBracket-1)== '[' || markdown.charAt(openParen - 1) != ']' || nextLine < closeParen) {
                 currentIndex = closeParen + 1;
                 continue;
             }
