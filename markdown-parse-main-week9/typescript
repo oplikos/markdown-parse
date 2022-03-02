@@ -1,0 +1,1700 @@
+Script started on Wed Mar  2 14:50:32 2022
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse-main[?1034h[cs15lwi22aae@ieng6-203]:markdown-parse-main:353$ script.sh[1@b[1@a[1@c[1@h[1@ 
+bash: bach: command not found
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:354$ bach script.sh[1@][1@s[1P[1P[1P[1@s
+test-files/102.md 	[]
+test-files/103.md 	[]
+test-files/104.md 	[]
+test-files/105.md 	[]
+test-files/106.md 	[]
+test-files/107.md 	[]
+test-files/108.md 	[]
+test-files/109.md 	[]
+test-files/11.md 	[]
+test-files/110.md 	[]
+test-files/111.md 	[]
+test-files/112.md 	[]
+test-files/113.md 	[]
+test-files/114.md 	[]
+test-files/115.md 	[]
+test-files/116.md 	[]
+test-files/117.md 	[]
+test-files/118.md 	[]
+test-files/119.md 	[]
+test-files/12.md 	[]
+test-files/120.md 	[]
+test-files/121.md 	[]
+test-files/122.md 	[]
+test-files/123.md 	[]
+test-files/124.md 	[]
+test-files/125.md 	[]
+test-files/126.md 	[]
+test-files/127.md 	[]
+test-files/128.md 	[]
+test-files/129.md 	[]
+test-files/13.md 	[]
+test-files/130.md 	[]
+test-files/131.md 	[]
+test-files/132.md 	[]
+test-files/133.md 	[]
+test-files/134.md 	[]
+test-files/135.md 	[]
+test-files/136.md 	[]
+test-files/137.md 	[]
+test-files/138.md 	[]
+test-files/139.md 	[]
+test-files/14.md 	[/foo]
+test-files/140.md 	[]
+test-files/141.md 	[]
+test-files/142.md 	[]
+test-files/143.md 	[]
+test-files/144.md 	[]
+test-files/145.md 	[]
+test-files/146.md 	[]
+test-files/147.md 	[]
+test-files/148.md 	[]
+test-files/149.md 	[]
+test-files/15.md 	[]
+test-files/150.md 	[]
+test-files/151.md 	[]
+test-files/152.md 	[]
+test-files/153.md 	[]
+test-files/154.md 	[]
+test-files/155.md 	[]
+test-files/156.md 	[]
+test-files/157.md 	[]
+test-files/158.md 	[]
+test-files/159.md 	[]
+test-files/16.md 	[]
+test-files/160.md 	[]
+test-files/161.md 	[]
+test-files/162.md 	[]
+test-files/163.md 	[]
+test-files/164.md 	[]
+test-files/165.md 	[]
+test-files/166.md 	[]
+test-files/167.md 	[]
+test-files/168.md 	[]
+test-files/169.md 	[]
+test-files/17.md 	[]
+test-files/170.md 	[]
+test-files/171.md 	[]
+test-files/172.md 	[]
+test-files/173.md 	[]
+test-files/174.md 	[]
+test-files/175.md 	[]
+test-files/176.md 	[]
+test-files/177.md 	[]
+test-files/178.md 	[]
+test-files/179.md 	[]
+test-files/18.md 	[]
+test-files/180.md 	[]
+test-files/181.md 	[]
+test-files/182.md 	[]
+test-files/183.md 	[]
+test-files/184.md 	[]
+test-files/185.md 	[]
+test-files/186.md 	[]
+test-files/187.md 	[]
+test-files/188.md 	[]
+test-files/189.md 	[]
+test-files/19.md 	[]
+test-files/190.md 	[]
+test-files/191.md 	[]
+test-files/192.md 	[]
+test-files/193.md 	[]
+test-files/194.md 	[url]
+test-files/195.md 	[]
+test-files/196.md 	[]
+test-files/197.md 	[]
+test-files/198.md 	[]
+test-files/199.md 	^Ctest-files/2.md 	[]
+test-files/20.md 	[]
+test-files/200.md 	[]
+test-files/201.md 	[baz]
+test-files/202.md 	[]
+test-files/203.md 	[]
+test-files/204.md 	[]
+test-files/205.md 	[]
+test-files/206.md 	[]
+test-files/207.md 	[]
+test-files/208.md 	[]
+test-files/209.md 	^C
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:355$ ^C
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:355$ s
+bash: s: command not found
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:356$ ls
+MarkdownParse.class      MarkdownParseTest.java  makefile2    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParse.java       an-f.txt                mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java     [01;34mlib[0m                     results.txt  test-file3.md  test-file7.md
+MarkdownParseTest.class  makefile                script.sh    test-file4.md  test-file8.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:357$ ls  cd ..
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9[cs15lwi22aae@ieng6-203]:inlabw9:358$ ls
+[0m[01;34mmarkdown-parse[0m  [01;34mmarkdown-parse-main[0m
+[cs15lwi22aae@ieng6-203]:inlabw9:359$ ls markdown-parse
+Makefile                       MarkdownParseOtherGroup.java  [0m[01;34mgrade-markdown-parse-main[0m        test-file2.md
+Makefile2                      MarkdownParsePro.class        [01;34mlib[0m                              test-file3.md
+Makefile3                      MarkdownParsePro.java         markdown-new-test.md             test-file4.md
+MakefileMain                   MarkdownParseTest.class       [01;34mmarkdown-parse-main-other-group[0m  test-file5.md
+MarkdownParse.class            MarkdownParseTest.java        markdown-test-three.md           test-file6.md
+MarkdownParse.java             MarkdownParseTestPro.class    markdown-test-two.md             test-file7.md
+MarkdownParse2.class           MarkdownParseTestPro.java     mdparse                          test-file8.md
+MarkdownParse2.java            Snippet1.md                   script.sh                        typescript
+MarkdownParse3.class           Snippet2.md                   sd.txt
+MarkdownParse3.java            Snippet3.md                   test file
+MarkdownParseOtherGroup.class  build.bat                     test-file.md
+[cs15lwi22aae@ieng6-203]:inlabw9:360$ vim     ls markdown-parse[Kcd ..[3Pls[1Psbash script.sh
+bash: script.sh: No such file or directory
+[cs15lwi22aae@ieng6-203]:inlabw9:361$ la
+bash: la: command not found
+[cs15lwi22aae@ieng6-203]:inlabw9:362$ cd  cd markdown-parse
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse[cs15lwi22aae@ieng6-203]:markdown-parse:363$ ls
+Makefile                       MarkdownParseOtherGroup.java  [0m[01;34mgrade-markdown-parse-main[0m        test-file2.md
+Makefile2                      MarkdownParsePro.class        [01;34mlib[0m                              test-file3.md
+Makefile3                      MarkdownParsePro.java         markdown-new-test.md             test-file4.md
+MakefileMain                   MarkdownParseTest.class       [01;34mmarkdown-parse-main-other-group[0m  test-file5.md
+MarkdownParse.class            MarkdownParseTest.java        markdown-test-three.md           test-file6.md
+MarkdownParse.java             MarkdownParseTestPro.class    markdown-test-two.md             test-file7.md
+MarkdownParse2.class           MarkdownParseTestPro.java     mdparse                          test-file8.md
+MarkdownParse2.java            Snippet1.md                   script.sh                        typescript
+MarkdownParse3.class           Snippet2.md                   sd.txt
+MarkdownParse3.java            Snippet3.md                   test file
+MarkdownParseOtherGroup.class  build.bat                     test-file.md
+[cs15lwi22aae@ieng6-203]:markdown-parse:364$ lscd markdown-parsela[Kbash script.sh
+test-files/*.md 	Exception in thread "main" java.nio.file.NoSuchFileException: test-files/*.md
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3272)
+	at java.base/java.nio.file.Files.readString(Files.java:3350)
+	at java.base/java.nio.file.Files.readString(Files.java:3309)
+	at MarkdownParse.main(MarkdownParse.java:59)
+[cs15lwi22aae@ieng6-203]:markdown-parse:365$ make
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParseTestPro.java
+./MarkdownParse.java:19: error: illegal initializer for char
+        char strs = { '(', ')', '[', ']', '\n' };
+                    ^
+./MarkdownParse.java:20: error: for-each not applicable to expression type
+        for (char st : strs)
+                       ^
+  required: array or java.lang.Iterable
+  found:    char
+./MarkdownParse.java:69: error: array required, but String found
+        Path fileName = Path.of(args[0]);
+                                    ^
+./MarkdownParseOtherGroup.java:56: error: array required, but String found
+        Path fileName = Path.of(args[0]);
+                                    ^
+4 errors
+make: *** [MarkdownParseTest.class] Error 1
+[cs15lwi22aae@ieng6-203]:markdown-parse:366$ cs d
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:367$ ls
+[0m[01;34mCSE15l[0m  [01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mSako[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34minlabw9[0m  [01;34mperl5[0m
+[cs15lwi22aae@ieng6-203]:~:368$ cd inlabw9/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9[cs15lwi22aae@ieng6-203]:inlabw9:369$ cd markdown-parse-main/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse-main[cs15lwi22aae@ieng6-203]:markdown-parse-main:370$ ls
+MarkdownParse.class      MarkdownParseTest.java  makefile2    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParse.java       an-f.txt                mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java     [01;34mlib[0m                     results.txt  test-file3.md  test-file7.md
+MarkdownParseTest.class  makefile                script.sh    test-file4.md  test-file8.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:371$ make
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParseMe.java
+MarkdownParseMe.java:8: error: class MarkdownParse is public, should be declared in a file named MarkdownParse.java
+public class MarkdownParse {
+       ^
+1 error
+make: *** [MarkdownParseMe.class] Error 1
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:372$ make
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParseMe.java
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParseTest.java
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:372$ bash S script.sh
+test-files/102.md 	[]
+test-files/103.md 	[]
+test-files/104.md 	[]
+test-files/105.md 	[]
+test-files/106.md 	[]
+test-files/107.md 	[]
+test-files/108.md 	[]
+test-files/109.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/11.md 	[]
+test-files/110.md 	[]
+test-files/111.md 	[]
+test-files/112.md 	[]
+test-files/113.md 	[]
+test-files/114.md 	[]
+test-files/115.md 	[]
+test-files/116.md 	[]
+test-files/117.md 	[]
+test-files/118.md 	[]
+test-files/119.md 	[]
+test-files/12.md 	[\*\+\,\-\.\/\:\;\<\=\>\?\@\]
+test-files/120.md 	[]
+test-files/121.md 	[]
+test-files/122.md 	[]
+test-files/123.md 	[]
+test-files/124.md 	[]
+test-files/125.md 	[]
+test-files/126.md 	[]
+test-files/127.md 	[]
+test-files/128.md 	[]
+test-files/129.md 	[]
+test-files/13.md 	[]
+test-files/130.md 	[]
+test-files/131.md 	[]
+test-files/132.md 	[]
+test-files/133.md 	[]
+test-files/134.md 	[]
+test-files/135.md 	[]
+test-files/136.md 	[]
+test-files/137.md 	[]
+test-files/138.md 	[]
+test-files/139.md 	[]
+test-files/14.md 	[1\. not a list]
+test-files/140.md 	[]
+test-files/141.md 	[]
+test-files/142.md 	[]
+test-files/143.md 	[]
+test-files/144.md 	[]
+test-files/145.md 	[]
+test-files/146.md 	[]
+test-files/147.md 	[]
+test-files/148.md 	[_world_.]
+test-files/149.md 	[okay.]
+test-files/15.md 	[]
+test-files/150.md 	[]
+test-files/151.md 	[]
+test-files/152.md 	[]
+test-files/153.md 	[]
+test-files/154.md 	[]
+test-files/155.md 	[]
+test-files/156.md 	[]
+test-files/157.md 	[]
+test-files/158.md 	[]
+test-files/159.md 	[]
+test-files/16.md 	[]
+test-files/160.md 	[]
+test-files/161.md 	[]
+test-files/162.md 	[]
+test-files/163.md 	[]
+test-files/164.md 	[]
+test-files/165.md 	[]
+test-files/166.md 	[]
+test-files/167.md 	[]
+test-files/168.md 	[]
+test-files/169.md 	[import Text.HTML.TagSoup, import Text.HTML.TagSoup]
+test-files/17.md 	[]
+test-files/170.md 	[document.getElementById, .innerHTML = "Hello JavaScript!";]
+test-files/171.md 	[]
+test-files/172.md 	[]
+test-files/173.md 	[]
+test-files/174.md 	[]
+test-files/175.md 	[]
+test-files/176.md 	[]
+test-files/177.md 	[]
+test-files/178.md 	[</script>1. *bar*]
+test-files/179.md 	[]
+test-files/18.md 	[]
+test-files/180.md 	[]
+test-files/181.md 	[]
+test-files/182.md 	[]
+test-files/183.md 	[]
+test-files/184.md 	[]
+test-files/185.md 	[]
+test-files/186.md 	[]
+test-files/187.md 	[]
+test-files/188.md 	[*Emphasized* text.]
+test-files/189.md 	[*Emphasized* text.]
+test-files/19.md 	[]
+test-files/190.md 	[]
+test-files/191.md 	[]
+test-files/192.md 	[]
+test-files/193.md 	[]
+test-files/194.md 	[]
+test-files/195.md 	[]
+test-files/196.md 	[]
+test-files/197.md 	[]
+test-files/198.md 	[]
+test-files/199.md 	[]
+test-files/2.md 	[]
+test-files/20.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 28, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/200.md 	[]
+test-files/201.md 	[]
+test-files/202.md 	[]
+test-files/203.md 	[]
+test-files/204.md 	[]
+test-files/205.md 	[]
+test-files/206.md 	[]
+test-files/207.md 	[]
+test-files/208.md 	[]
+test-files/209.md 	[]
+test-files/21.md 	[]
+test-files/210.md 	[]
+test-files/211.md 	[]
+test-files/212.md 	[]
+test-files/213.md 	[]
+test-files/214.md 	[]
+test-files/215.md 	[]
+test-files/216.md 	[]
+test-files/217.md 	[]
+test-files/218.md 	[]
+test-files/219.md 	[]
+test-files/22.md 	[]
+test-files/220.md 	[]
+test-files/221.md 	[]
+test-files/222.md 	[]
+test-files/223.md 	[]
+test-files/224.md 	[]
+test-files/225.md 	[]
+test-files/226.md 	[]
+test-files/227.md 	[]
+test-files/228.md 	[]
+test-files/229.md 	[]
+test-files/23.md 	[]
+test-files/230.md 	[]
+test-files/231.md 	[]
+test-files/232.md 	[]
+test-files/233.md 	[]
+test-files/234.md 	[]
+test-files/235.md 	[]
+test-files/236.md 	[]
+test-files/237.md 	[]
+test-files/238.md 	[]
+test-files/239.md 	[]
+test-files/24.md 	[]
+test-files/240.md 	[]
+test-files/241.md 	[]
+test-files/242.md 	[]
+test-files/243.md 	[]
+test-files/244.md 	[]
+test-files/245.md 	[]
+test-files/246.md 	[]
+test-files/247.md 	[]
+test-files/248.md 	[]
+test-files/249.md 	[]
+test-files/25.md 	[]
+test-files/250.md 	[]
+test-files/251.md 	[]
+test-files/252.md 	[]
+test-files/253.md 	[with two lines., > A block quote.]
+test-files/254.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 15, length 81
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/255.md 	[]
+test-files/256.md 	[]
+test-files/257.md 	[]
+test-files/258.md 	[]
+test-files/259.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 14, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/26.md 	[]
+test-files/260.md 	[]
+test-files/261.md 	[2.two]
+test-files/262.md 	[]
+test-files/263.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 53
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/264.md 	[]
+test-files/265.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 13, length 14
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/266.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/267.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 5, length 6
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/268.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 8
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/269.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 10, length 11
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/27.md 	[]
+test-files/270.md 	[]
+test-files/271.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 10, length 27
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/272.md 	[]
+test-files/273.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 53
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/274.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 54
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/275.md 	[]
+test-files/276.md 	[]
+test-files/277.md 	[]
+test-files/278.md 	[]
+test-files/279.md 	[]
+test-files/28.md 	[]
+test-files/280.md 	[]
+test-files/281.md 	[]
+test-files/282.md 	[]
+test-files/283.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 17
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/284.md 	[]
+test-files/285.md 	[1.]
+test-files/286.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 16, length 85
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/287.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 89
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/288.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 93
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/289.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 19, length 97
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/29.md 	[]
+test-files/290.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 83
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/291.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 38
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/292.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 34
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/293.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 36
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/294.md 	[]
+test-files/295.md 	[]
+test-files/296.md 	[]
+test-files/297.md 	[]
+test-files/298.md 	[]
+test-files/299.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 11, length 12
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/3.md 	[]
+test-files/30.md 	[]
+test-files/300.md 	[]
+test-files/301.md 	[]
+test-files/302.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/303.md 	[]
+test-files/304.md 	[14.  The number of doors is 6., 14.  The number of doors is 6.]
+test-files/305.md 	[1.  The number of doors is 6., 1.  The number of doors is 6.]
+test-files/306.md 	[]
+test-files/307.md 	[]
+test-files/308.md 	[]
+test-files/309.md 	[]
+test-files/31.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 28, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/310.md 	[]
+test-files/311.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 4, length 22
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/312.md 	[]
+test-files/313.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 4, length 23
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/314.md 	[]
+test-files/315.md 	[]
+test-files/316.md 	[]
+test-files/317.md 	[]
+test-files/318.md 	[]
+test-files/319.md 	[]
+test-files/32.md 	[]
+test-files/320.md 	[]
+test-files/321.md 	[]
+test-files/322.md 	[]
+test-files/323.md 	[]
+test-files/324.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/325.md 	[]
+test-files/326.md 	[]
+test-files/327.md 	[]
+test-files/328.md 	[]
+test-files/329.md 	[]
+test-files/33.md 	[]
+test-files/330.md 	[]
+test-files/331.md 	[]
+test-files/332.md 	[]
+test-files/333.md 	[]
+test-files/334.md 	[]
+test-files/335.md 	[]
+test-files/336.md 	[]
+test-files/337.md 	[]
+test-files/338.md 	[]
+test-files/339.md 	[]
+test-files/34.md 	[]
+test-files/340.md 	[]
+test-files/341.md 	[]
+test-files/342.md 	[]
+test-files/343.md 	[]
+test-files/344.md 	[]
+test-files/345.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 23, length 24
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/346.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 22, length 23
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/347.md 	[]
+test-files/348.md 	[]
+test-files/349.md 	[]
+test-files/35.md 	[]
+test-files/350.md 	[]
+test-files/351.md 	[]
+test-files/352.md 	[]
+test-files/353.md 	[]
+test-files/354.md 	[]
+test-files/355.md 	[]
+test-files/356.md 	[]
+test-files/357.md 	[]
+test-files/358.md 	[]
+test-files/359.md 	[]
+test-files/36.md 	[]
+test-files/360.md 	[]
+test-files/361.md 	[]
+test-files/362.md 	[]
+test-files/363.md 	[]
+test-files/364.md 	[]
+test-files/365.md 	[]
+test-files/366.md 	[]
+test-files/367.md 	[]
+test-files/368.md 	[]
+test-files/369.md 	[]
+test-files/37.md 	[]
+test-files/370.md 	[]
+test-files/371.md 	[]
+test-files/372.md 	[]
+test-files/373.md 	[]
+test-files/374.md 	[]
+test-files/375.md 	[]
+test-files/376.md 	[_.]
+test-files/377.md 	[]
+test-files/378.md 	[]
+test-files/379.md 	[]
+test-files/38.md 	[]
+test-files/380.md 	[]
+test-files/381.md 	[]
+test-files/382.md 	[]
+test-files/383.md 	[]
+test-files/384.md 	[]
+test-files/385.md 	[]
+test-files/386.md 	[]
+test-files/387.md 	[]
+test-files/388.md 	[]
+test-files/389.md 	[]
+test-files/39.md 	[]
+test-files/390.md 	[]
+test-files/391.md 	[]
+test-files/392.md 	[]
+test-files/393.md 	[*Gomphocarpus physocarpus*, syn.]
+test-files/394.md 	[]
+test-files/395.md 	[]
+test-files/396.md 	[]
+test-files/397.md 	[]
+test-files/398.md 	[]
+test-files/399.md 	[]
+test-files/4.md 	[]
+test-files/40.md 	[]
+test-files/400.md 	[]
+test-files/401.md 	[]
+test-files/402.md 	[__.]
+test-files/403.md 	[]
+test-files/404.md 	[]
+test-files/405.md 	[]
+test-files/406.md 	[]
+test-files/407.md 	[]
+test-files/408.md 	[]
+test-files/409.md 	[]
+test-files/41.md 	[]
+test-files/410.md 	[]
+test-files/411.md 	[]
+test-files/412.md 	[]
+test-files/413.md 	[]
+test-files/414.md 	[]
+test-files/415.md 	[]
+test-files/416.md 	[]
+test-files/417.md 	[]
+test-files/418.md 	[]
+test-files/419.md 	[]
+test-files/42.md 	[]
+test-files/420.md 	[]
+test-files/421.md 	[]
+test-files/422.md 	[]
+test-files/423.md 	[]
+test-files/424.md 	[]
+test-files/425.md 	[]
+test-files/426.md 	[]
+test-files/427.md 	[]
+test-files/428.md 	[]
+test-files/429.md 	[]
+test-files/43.md 	[]
+test-files/430.md 	[]
+test-files/431.md 	[]
+test-files/432.md 	[]
+test-files/433.md 	[]
+test-files/434.md 	[]
+test-files/435.md 	[]
+test-files/436.md 	[]
+test-files/437.md 	[]
+test-files/438.md 	[]
+test-files/439.md 	[]
+test-files/44.md 	[]
+test-files/440.md 	[]
+test-files/441.md 	[]
+test-files/442.md 	[]
+test-files/443.md 	[]
+test-files/444.md 	[]
+test-files/445.md 	[]
+test-files/446.md 	[]
+test-files/447.md 	[]
+test-files/448.md 	[]
+test-files/449.md 	[]
+test-files/45.md 	[]
+test-files/450.md 	[]
+test-files/451.md 	[]
+test-files/452.md 	[]
+test-files/453.md 	[]
+test-files/454.md 	[]
+test-files/455.md 	[]
+test-files/456.md 	[]
+test-files/457.md 	[]
+test-files/458.md 	[]
+test-files/459.md 	[]
+test-files/46.md 	[]
+test-files/460.md 	[]
+test-files/461.md 	[]
+test-files/462.md 	[]
+test-files/463.md 	[]
+test-files/464.md 	[]
+test-files/465.md 	[]
+test-files/466.md 	[]
+test-files/467.md 	[]
+test-files/468.md 	[]
+test-files/469.md 	[]
+test-files/47.md 	[]
+test-files/470.md 	[]
+test-files/471.md 	[]
+test-files/472.md 	[]
+test-files/473.md 	[]
+test-files/474.md 	[]
+test-files/475.md 	[]
+test-files/476.md 	[]
+test-files/477.md 	[]
+test-files/478.md 	[]
+test-files/479.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 25, length 26
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/48.md 	[]
+test-files/480.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 25, length 26
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/481.md 	[]
+test-files/482.md 	[]
+test-files/483.md 	[./target.md, ./target.md]
+test-files/484.md 	[]
+test-files/485.md 	[]
+test-files/486.md 	[]
+test-files/487.md 	[]
+test-files/488.md 	[]
+test-files/489.md 	[]
+test-files/49.md 	[]
+test-files/490.md 	[]
+test-files/491.md 	[]
+test-files/492.md 	[]
+test-files/493.md 	[]
+test-files/494.md 	[]
+test-files/495.md 	[]
+test-files/496.md 	[]
+test-files/497.md 	[]
+test-files/498.md 	[]
+test-files/499.md 	[]
+test-files/5.md 	[]
+test-files/50.md 	[]
+test-files/500.md 	[http://example.com#fragment, http://example.com?foo=3#frag]
+test-files/501.md 	[]
+test-files/502.md 	[]
+test-files/503.md 	[]
+test-files/504.md 	[]
+test-files/505.md 	[]
+test-files/506.md 	[]
+test-files/507.md 	[]
+test-files/508.md 	[]
+test-files/509.md 	[]
+test-files/51.md 	[]
+test-files/510.md 	[]
+test-files/511.md 	[]
+test-files/512.md 	[]
+test-files/513.md 	[]
+test-files/514.md 	[]
+test-files/515.md 	[]
+test-files/516.md 	[moon.jpg]
+test-files/517.md 	[]
+test-files/518.md 	[]
+test-files/519.md 	[]
+test-files/52.md 	[]
+test-files/520.md 	[]
+test-files/521.md 	[]
+test-files/522.md 	[]
+test-files/523.md 	[]
+test-files/524.md 	[]
+test-files/525.md 	[foo<http://example.com/?search=]
+test-files/526.md 	[]
+test-files/527.md 	[]
+test-files/528.md 	[]
+test-files/529.md 	[]
+test-files/53.md 	[]
+test-files/530.md 	[moon.jpg]
+test-files/531.md 	[]
+test-files/532.md 	[]
+test-files/533.md 	[]
+test-files/534.md 	[]
+test-files/535.md 	[]
+test-files/536.md 	[]
+test-files/537.md 	[foo<http://example.com/?search=]
+test-files/538.md 	[]
+test-files/539.md 	[]
+test-files/54.md 	[]
+test-files/540.md 	[]
+test-files/541.md 	[]
+test-files/542.md 	[]
+test-files/543.md 	[]
+test-files/544.md 	[]
+test-files/545.md 	[]
+test-files/546.md 	[]
+test-files/547.md 	[]
+test-files/548.md 	[]
+test-files/549.md 	[]
+test-files/55.md 	[]
+test-files/550.md 	[]
+test-files/551.md 	[]
+test-files/552.md 	[]
+test-files/553.md 	[]
+test-files/554.md 	[]
+test-files/555.md 	[]
+test-files/556.md 	[]
+test-files/557.md 	[]
+test-files/558.md 	[]
+test-files/559.md 	[]
+test-files/56.md 	[]
+test-files/560.md 	[]
+test-files/561.md 	[]
+test-files/562.md 	[]
+test-files/563.md 	[]
+test-files/564.md 	[]
+test-files/565.md 	[]
+test-files/566.md 	[]
+test-files/567.md 	[]
+test-files/568.md 	[]
+test-files/569.md 	[]
+test-files/57.md 	[]
+test-files/570.md 	[]
+test-files/571.md 	[]
+test-files/572.md 	[: train.jpg "train & tracks"]
+test-files/573.md 	[]
+test-files/574.md 	[]
+test-files/575.md 	[: train.jpg "train & tracks"]
+test-files/576.md 	[: train.jpg "train & tracks"]
+test-files/577.md 	[train.jpg]
+test-files/578.md 	[/path/to/train.jpg  "title"   ]
+test-files/579.md 	[]
+test-files/58.md 	[]
+test-files/580.md 	[]
+test-files/581.md 	[]
+test-files/582.md 	[]
+test-files/583.md 	[]
+test-files/584.md 	[]
+test-files/585.md 	[]
+test-files/586.md 	[]
+test-files/587.md 	[]
+test-files/588.md 	[]
+test-files/589.md 	[]
+test-files/59.md 	[]
+test-files/590.md 	[]
+test-files/591.md 	[]
+test-files/592.md 	[]
+test-files/593.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/594.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 47, length 48
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/595.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 24, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/596.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/597.md 	[]
+test-files/598.md 	[]
+test-files/599.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 12, length 13
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/6.md 	[]
+test-files/60.md 	[]
+test-files/600.md 	[]
+test-files/601.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 24, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/602.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/603.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 22
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/604.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 30, length 31
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/605.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 23, length 24
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/606.md 	[]
+test-files/607.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/608.md 	[]
+test-files/609.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 13, length 14
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/61.md 	[]
+test-files/610.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/611.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 19, length 20
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/612.md 	[]
+test-files/613.md 	[]
+test-files/614.md 	[]
+test-files/615.md 	[]
+test-files/616.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 38, length 39
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/617.md 	[]
+test-files/618.md 	[]
+test-files/619.md 	[]
+test-files/62.md 	[]
+test-files/620.md 	[]
+test-files/621.md 	[]
+test-files/622.md 	[]
+test-files/623.md 	[]
+test-files/624.md 	[]
+test-files/625.md 	[]
+test-files/626.md 	[]
+test-files/627.md 	[]
+test-files/628.md 	[]
+test-files/629.md 	[]
+test-files/63.md 	[]
+test-files/630.md 	[]
+test-files/631.md 	[]
+test-files/632.md 	[]
+test-files/633.md 	[]
+test-files/634.md 	[]
+test-files/635.md 	[]
+test-files/636.md 	[]
+test-files/637.md 	[]
+test-files/638.md 	[]
+test-files/639.md 	[]
+test-files/64.md 	[]
+test-files/640.md 	[]
+test-files/641.md 	[]
+test-files/642.md 	[]
+test-files/643.md 	[]
+test-files/644.md 	[]
+test-files/645.md 	[]
+test-files/646.md 	[]
+test-files/647.md 	[]
+test-files/648.md 	[]
+test-files/649.md 	[]
+test-files/65.md 	[]
+test-files/650.md 	Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 15, length 16
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParseMe.getLinks(MarkdownParseMe.java:52)
+	at MarkdownParseMe.main(MarkdownParseMe.java:62)
+test-files/651.md 	[]
+test-files/652.md 	[]
+test-files/66.md 	[]
+test-files/67.md 	[]
+test-files/68.md 	[]
+test-files/69.md 	[]
+test-files/7.md 	[]
+test-files/70.md 	[]
+test-files/71.md 	[]
+test-files/72.md 	[]
+test-files/73.md 	[]
+test-files/74.md 	[]
+test-files/75.md 	[]
+test-files/76.md 	[]
+test-files/77.md 	[]
+test-files/78.md 	[]
+test-files/79.md 	[]
+test-files/8.md 	[]
+test-files/80.md 	[]
+test-files/81.md 	[]
+test-files/82.md 	[]
+test-files/83.md 	[]
+test-files/84.md 	[]
+test-files/85.md 	[]
+test-files/86.md 	[]
+test-files/87.md 	[]
+test-files/88.md 	[]
+test-files/89.md 	[]
+test-files/9.md 	[]
+test-files/90.md 	[]
+test-files/91.md 	[]
+test-files/92.md 	[]
+test-files/93.md 	[]
+test-files/94.md 	[]
+test-files/95.md 	[]
+test-files/96.md 	[]
+test-files/97.md 	[]
+test-files/98.md 	[]
+test-files/99.md 	[]
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:373$ cd~
+bash: cd~: command not found
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:374$ cd~ ~
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:375$ ls
+[0m[01;34mCSE15l[0m  [01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mSako[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34minlabw9[0m  [01;34mperl5[0m
+[cs15lwi22aae@ieng6-203]:~:376$ cd inlabw9/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9[cs15lwi22aae@ieng6-203]:inlabw9:377$ cd inlabw9/        
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:378$ cd inlabw9/markdown-parse-main/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse-main[cs15lwi22aae@ieng6-203]:markdown-parse-main:379$ ls
+MarkdownParse.class    MarkdownParseTest.class  makefile     script.sh      test-file4.md  test-file8.md
+MarkdownParse.java     MarkdownParseTest.java   makefile3    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParseMe.class  an-f.txt                 mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java   [01;34mlib[0m                      results.txt  test-file3.md  test-file7.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:380$ cp-  -r inlabw9/markd down-parse/test-files
+cp: missing destination file operand after 'inlabw9/markdown-parse/test-files'
+Try 'cp --help' for more information.
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:381$ cp -r inlabw9/markdown-parse/test-filescp -r inlabw9/markdown-parse/test-file[s3s~s[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[K[1Ps[1Ps[1Ps[1Ps[K[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Ps[1Pslsss[K
+MarkdownParse.class    MarkdownParseTest.class  makefile     script.sh      test-file4.md  test-file8.md
+MarkdownParse.java     MarkdownParseTest.java   makefile3    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParseMe.class  an-f.txt                 mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java   [01;34mlib[0m                      results.txt  test-file3.md  test-file7.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:382$ cd
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:383$  cd inlabw9/markdown-parse-main/[1P[1P[1P[1P[1@c[1@p[1@ [1@-[1@r[1@ inlabw9/markdown-parse-main/test-file est-file inlabw9/markdown-parse/
+cp: cannot stat 'inlabw9/markdown-parse-main/test-file': No such file or directory
+[cs15lwi22aae@ieng6-203]:~:384$ cp -r inlabw9/markdown-parse-main/test-file inlabw9/markdown-parse/[1@s
+[cs15lwi22aae@ieng6-203]:~:385$ cp -r inlabw9/markdown-parse-main/test-files inlabw9/markdown-parse/iles[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@c[1@r[1@i[1@p[1@.[1@h[1@t[1P[1Pcp [3@-r inlabw9/markdown-parse-main/test-file inlabw9/markdown-parse/[cs15lwi22aae@ieng6-203]:~:385$ cd[Kls[37@cp -r inlabw9/markdown-parse/test-files[cs15lwi22aae@ieng6-203]:~:385$ ls[Kcd inlabw9/markdown-parse-main/[Kinlabw9/ls[Kcd ~[1P~bash script.sh
+bash: script.sh: No such file or directory
+[cs15lwi22aae@ieng6-203]:~:386$ cd inlabw9/markdown-parse-main/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse-main[cs15lwi22aae@ieng6-203]:markdown-parse-main:387$ ls
+MarkdownParse.class    MarkdownParseTest.class  makefile     script.sh      test-file4.md  test-file8.md
+MarkdownParse.java     MarkdownParseTest.java   makefile3    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParseMe.class  an-f.txt                 mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java   [01;34mlib[0m                      results.txt  test-file3.md  test-file7.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:388$ cd ..
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9[cs15lwi22aae@ieng6-203]:inlabw9:389$ cd markdown-parse
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse[cs15lwi22aae@ieng6-203]:markdown-parse:390$ ls
+Makefile                       MarkdownParseOtherGroup.java  [0m[01;34mgrade-markdown-parse-main[0m        test-file2.md
+Makefile2                      MarkdownParsePro.class        [01;34mlib[0m                              test-file3.md
+Makefile3                      MarkdownParsePro.java         markdown-new-test.md             test-file4.md
+MakefileMain                   MarkdownParseTest.class       [01;34mmarkdown-parse-main-other-group[0m  test-file5.md
+MarkdownParse.class            MarkdownParseTest.java        markdown-test-three.md           test-file6.md
+MarkdownParse.java             MarkdownParseTestPro.class    markdown-test-two.md             test-file7.md
+MarkdownParse2.class           MarkdownParseTestPro.java     mdparse                          test-file8.md
+MarkdownParse2.java            Snippet1.md                   script.sh                        [01;34mtest-files[0m
+MarkdownParse3.class           Snippet2.md                   sd.txt                           typescript
+MarkdownParse3.java            Snippet3.md                   test file
+MarkdownParseOtherGroup.class  build.bat                     test-file.md
+[cs15lwi22aae@ieng6-203]:markdown-parse:391$ lscd markdown-parse..[K[3Plscd inlabw9/markdown-parse-main/[17Pbash script.shcp  inlabw9/markdown-parse-main/script.h inlabw9/markdown-parse/[cs15lwi22aae@ieng6-203]:markdown-parse:391$ cp -r inlabw9/markdown-parse-main/test-file inlabw9/markdown-parsee/[As15lwi22aae@ieng6-203]:markdown-parse:391$ cp [1P inlabw9/markdown-parse-main/script.h inlabw9/markdown-parse/
+[K[A[cs15lwi22aae@ieng6-203]:markdown-parse:391$ cp  inlabw9/markdown-parse-main/script.h inlabw9/markdown-parse/[cs15lwi22aae@ieng6-203]:markdown-parse:391$ bash script.sh[Kcd inlabw9/markdown-parse-main/[17Pbash script.sh > result.txt
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 28, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 15, length 81
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 14, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 53
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 13, length 14
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 5, length 6
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 7, length 8
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 10, length 11
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 10, length 27
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 53
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 54
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 17
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 16, length 85
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 89
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 93
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 19, length 97
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 83
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 38
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 34
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 17, length 36
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 11, length 12
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 28, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 4, length 22
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 4, length 23
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 6, length 29
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 23, length 24
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 22, length 23
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 25, length 26
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 25, length 26
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 47, length 48
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 24, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 20, length 21
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 12, length 13
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 24, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 25
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 21, length 22
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 30, length 31
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 23, length 24
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 13, length 14
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 18, length 19
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 19, length 20
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 38, length 39
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin -1, end 15, length 16
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3756)
+	at java.base/java.lang.String.substring(String.java:1902)
+	at MarkdownParse.getLinks(MarkdownParse.java:52)
+	at MarkdownParse.main(MarkdownParse.java:62)
+[cs15lwi22aae@ieng6-203]:markdown-parse:392$ cd
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:393$ diff inlabw9/markdown-parse-main/results.txt ma  inlabw9/, markdown-parse/result.txt  
+8,9c8
+< test-files/109.md 	[]
+< test-files/11.md 	[]
+---
+> test-files/109.md 	test-files/11.md 	[]
+20c19
+< test-files/12.md 	[]
+---
+> test-files/12.md 	[\*\+\,\-\.\/\:\;\<\=\>\?\@\]
+42c41
+< test-files/14.md 	[/foo]
+---
+> test-files/14.md 	[1\. not a list]
+51,52c50,51
+< test-files/148.md 	[]
+< test-files/149.md 	[]
+---
+> test-files/148.md 	[_world_.]
+> test-files/149.md 	[okay.]
+74c73
+< test-files/169.md 	[]
+---
+> test-files/169.md 	[import Text.HTML.TagSoup, import Text.HTML.TagSoup]
+76c75
+< test-files/170.md 	[]
+---
+> test-files/170.md 	[document.getElementById, .innerHTML = "Hello JavaScript!";]
+84c83
+< test-files/178.md 	[]
+---
+> test-files/178.md 	[</script>1. *bar*]
+95,96c94,95
+< test-files/188.md 	[]
+< test-files/189.md 	[]
+---
+> test-files/188.md 	[*Emphasized* text.]
+> test-files/189.md 	[*Emphasized* text.]
+102c101
+< test-files/194.md 	[url]
+---
+> test-files/194.md 	[]
+109,111c108,109
+< test-files/20.md 	[]
+< test-files/200.md 	[]
+< test-files/201.md 	[baz]
+---
+> test-files/20.md 	test-files/200.md 	[]
+> test-files/201.md 	[]
+168,170c166,167
+< test-files/253.md 	[]
+< test-files/254.md 	[]
+< test-files/255.md 	[]
+---
+> test-files/253.md 	[with two lines., > A block quote.]
+> test-files/254.md 	test-files/255.md 	[]
+174,175c171
+< test-files/259.md 	[]
+< test-files/26.md 	[]
+---
+> test-files/259.md 	test-files/26.md 	[]
+177c173
+< test-files/261.md 	[]
+---
+> test-files/261.md 	[2.two]
+179,186c175,176
+< test-files/263.md 	[]
+< test-files/264.md 	[]
+< test-files/265.md 	[]
+< test-files/266.md 	[]
+< test-files/267.md 	[]
+< test-files/268.md 	[]
+< test-files/269.md 	[]
+< test-files/27.md 	[]
+---
+> test-files/263.md 	test-files/264.md 	[]
+> test-files/265.md 	test-files/266.md 	test-files/267.md 	test-files/268.md 	test-files/269.md 	test-files/27.md 	[]
+188,192c178,179
+< test-files/271.md 	[]
+< test-files/272.md 	[]
+< test-files/273.md 	[]
+< test-files/274.md 	[]
+< test-files/275.md 	[]
+---
+> test-files/271.md 	test-files/272.md 	[]
+> test-files/273.md 	test-files/274.md 	test-files/275.md 	[]
+201,213c188,191
+< test-files/283.md 	[]
+< test-files/284.md 	[]
+< test-files/285.md 	[]
+< test-files/286.md 	[]
+< test-files/287.md 	[]
+< test-files/288.md 	[]
+< test-files/289.md 	[]
+< test-files/29.md 	[]
+< test-files/290.md 	[]
+< test-files/291.md 	[]
+< test-files/292.md 	[]
+< test-files/293.md 	[]
+< test-files/294.md 	[]
+---
+> test-files/283.md 	test-files/284.md 	[]
+> test-files/285.md 	[1.]
+> test-files/286.md 	test-files/287.md 	test-files/288.md 	test-files/289.md 	test-files/29.md 	[]
+> test-files/290.md 	test-files/291.md 	test-files/292.md 	test-files/293.md 	test-files/294.md 	[]
+218,219c196
+< test-files/299.md 	[]
+< test-files/3.md 	[]
+---
+> test-files/299.md 	test-files/3.md 	[]
+223,226c200,202
+< test-files/302.md 	[]
+< test-files/303.md 	[]
+< test-files/304.md 	[]
+< test-files/305.md 	[]
+---
+> test-files/302.md 	test-files/303.md 	[]
+> test-files/304.md 	[14.  The number of doors is 6., 14.  The number of doors is 6.]
+> test-files/305.md 	[1.  The number of doors is 6., 1.  The number of doors is 6.]
+231,236c207,209
+< test-files/31.md 	[]
+< test-files/310.md 	[]
+< test-files/311.md 	[]
+< test-files/312.md 	[]
+< test-files/313.md 	[]
+< test-files/314.md 	[]
+---
+> test-files/31.md 	test-files/310.md 	[]
+> test-files/311.md 	test-files/312.md 	[]
+> test-files/313.md 	test-files/314.md 	[]
+247,248c220
+< test-files/324.md 	[]
+< test-files/325.md 	[]
+---
+> test-files/324.md 	test-files/325.md 	[]
+267c239
+< test-files/342.md 	[/foo`]
+---
+> test-files/342.md 	[]
+270,272c242
+< test-files/345.md 	[]
+< test-files/346.md 	[]
+< test-files/347.md 	[]
+---
+> test-files/345.md 	test-files/346.md 	test-files/347.md 	[]
+304c274
+< test-files/376.md 	[]
+---
+> test-files/376.md 	[_.]
+323c293
+< test-files/393.md 	[]
+---
+> test-files/393.md 	[*Gomphocarpus physocarpus*, syn.]
+334,335c304,305
+< test-files/402.md 	[]
+< test-files/403.md 	[/url]
+---
+> test-files/402.md 	[__.]
+> test-files/403.md 	[]
+351c321
+< test-files/418.md 	[/url]
+---
+> test-files/418.md 	[]
+355c325
+< test-files/421.md 	[/url]
+---
+> test-files/421.md 	[]
+367c337
+< test-files/432.md 	[/url]
+---
+> test-files/432.md 	[]
+411,412c381,382
+< test-files/472.md 	[/url]
+< test-files/473.md 	[/url]
+---
+> test-files/472.md 	[]
+> test-files/473.md 	[]
+418,423c388,391
+< test-files/479.md 	[]
+< test-files/48.md 	[]
+< test-files/480.md 	[]
+< test-files/481.md 	[]
+< test-files/482.md 	[/uri]
+< test-files/483.md 	[./target.md]
+---
+> test-files/479.md 	test-files/48.md 	[]
+> test-files/480.md 	test-files/481.md 	[]
+> test-files/482.md 	[]
+> test-files/483.md 	[./target.md, ./target.md]
+425c393
+< test-files/485.md 	[<>]
+---
+> test-files/485.md 	[]
+432,436c400,404
+< test-files/491.md 	[<b]
+< test-files/492.md 	[<foo\>]
+< test-files/493.md 	[<b, <b, <b>c]
+< test-files/494.md 	[\(foo\)]
+< test-files/495.md 	[foo(and(bar))]
+---
+> test-files/491.md 	[]
+> test-files/492.md 	[]
+> test-files/493.md 	[]
+> test-files/494.md 	[]
+> test-files/495.md 	[]
+440c408
+< test-files/499.md 	[foo\]
+---
+> test-files/499.md 	[]
+443,446c411,414
+< test-files/500.md 	[#fragment, http://example.com#fragment, http://example.com?foo=3#frag]
+< test-files/501.md 	[foo\bar]
+< test-files/502.md 	[foo%20b&auml;]
+< test-files/503.md 	["title"]
+---
+> test-files/500.md 	[http://example.com#fragment, http://example.com?foo=3#frag]
+> test-files/501.md 	[]
+> test-files/502.md 	[]
+> test-files/503.md 	[]
+449c417
+< test-files/506.md 	[/url?"title"]
+---
+> test-files/506.md 	[]
+454,459c422,427
+< test-files/510.md 	[/uri]
+< test-files/511.md 	[/uri]
+< test-files/512.md 	[/uri]
+< test-files/513.md 	[/uri]
+< test-files/514.md 	[/uri]
+< test-files/515.md 	[/uri]
+---
+> test-files/510.md 	[]
+> test-files/511.md 	[]
+> test-files/512.md 	[]
+> test-files/513.md 	[]
+> test-files/514.md 	[]
+> test-files/515.md 	[]
+461,463c429,431
+< test-files/517.md 	[/uri]
+< test-files/518.md 	[/uri]
+< test-files/519.md 	[uri1]
+---
+> test-files/517.md 	[]
+> test-files/518.md 	[]
+> test-files/519.md 	[]
+465,466c433,434
+< test-files/520.md 	[/uri]
+< test-files/521.md 	[baz*]
+---
+> test-files/520.md 	[]
+> test-files/521.md 	[]
+468,470c436,438
+< test-files/523.md 	[baz]
+< test-files/524.md 	[/uri]
+< test-files/525.md 	[uri]
+---
+> test-files/523.md 	[]
+> test-files/524.md 	[]
+> test-files/525.md 	[foo<http://example.com/?search=]
+477c445
+< test-files/531.md 	[/uri]
+---
+> test-files/531.md 	[]
+483c451
+< test-files/537.md 	[]
+---
+> test-files/537.md 	[foo<http://example.com/?search=]
+522,526c490,494
+< test-files/572.md 	[]
+< test-files/573.md 	[/url]
+< test-files/574.md 	[/url]
+< test-files/575.md 	[]
+< test-files/576.md 	[]
+---
+> test-files/572.md 	[: train.jpg "train & tracks"]
+> test-files/573.md 	[]
+> test-files/574.md 	[]
+> test-files/575.md 	[: train.jpg "train & tracks"]
+> test-files/576.md 	[: train.jpg "train & tracks"]
+528,529c496,497
+< test-files/578.md 	[]
+< test-files/579.md 	[<url>]
+---
+> test-files/578.md 	[/path/to/train.jpg  "title"   ]
+> test-files/579.md 	[]
+531c499
+< test-files/580.md 	[/url]
+---
+> test-files/580.md 	[]
+545,549c513
+< test-files/593.md 	[]
+< test-files/594.md 	[]
+< test-files/595.md 	[]
+< test-files/596.md 	[]
+< test-files/597.md 	[]
+---
+> test-files/593.md 	test-files/594.md 	test-files/595.md 	test-files/596.md 	test-files/597.md 	[]
+551,552c515
+< test-files/599.md 	[]
+< test-files/6.md 	[]
+---
+> test-files/599.md 	test-files/6.md 	[]
+555,567c518,521
+< test-files/601.md 	[]
+< test-files/602.md 	[]
+< test-files/603.md 	[]
+< test-files/604.md 	[]
+< test-files/605.md 	[]
+< test-files/606.md 	[]
+< test-files/607.md 	[]
+< test-files/608.md 	[]
+< test-files/609.md 	[]
+< test-files/61.md 	[]
+< test-files/610.md 	[]
+< test-files/611.md 	[]
+< test-files/612.md 	[]
+---
+> test-files/601.md 	test-files/602.md 	test-files/603.md 	test-files/604.md 	test-files/605.md 	test-files/606.md 	[]
+> test-files/607.md 	test-files/608.md 	[]
+> test-files/609.md 	test-files/61.md 	[]
+> test-files/610.md 	test-files/611.md 	test-files/612.md 	[]
+571,572c525
+< test-files/616.md 	[]
+< test-files/617.md 	[]
+---
+> test-files/616.md 	test-files/617.md 	[]
+609,610c562
+< test-files/650.md 	[]
+< test-files/651.md 	[]
+---
+> test-files/650.md 	test-files/651.md 	[]
+[cs15lwi22aae@ieng6-203]:~:394$ [K[cs15lwi22aae@ieng6-203]:~:394$ diff inlabw9/markdown-parse-main/results.txt inlabw9/markdown-parse/result.txt  >diff.txt
+[cs15lwi22aae@ieng6-203]:~:395$ cd inlabw9/markdown-parse
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse[cs15lwi22aae@ieng6-203]:markdown-parse:396$ ls
+Makefile                       MarkdownParseOtherGroup.java  [0m[01;34mgrade-markdown-parse-main[0m        test-file.md
+Makefile2                      MarkdownParsePro.class        [01;34mlib[0m                              test-file2.md
+Makefile3                      MarkdownParsePro.java         markdown-new-test.md             test-file3.md
+MakefileMain                   MarkdownParseTest.class       [01;34mmarkdown-parse-main-other-group[0m  test-file4.md
+MarkdownParse.class            MarkdownParseTest.java        markdown-test-three.md           test-file5.md
+MarkdownParse.java             MarkdownParseTestPro.class    markdown-test-two.md             test-file6.md
+MarkdownParse2.class           MarkdownParseTestPro.java     mdparse                          test-file7.md
+MarkdownParse2.java            Snippet1.md                   result.txt                       test-file8.md
+MarkdownParse3.class           Snippet2.md                   script.sh                        [01;34mtest-files[0m
+MarkdownParse3.java            Snippet3.md                   sd.txt                           typescript
+MarkdownParseOtherGroup.class  build.bat                     test file
+[cs15lwi22aae@ieng6-203]:markdown-parse:397$ cd 
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae[cs15lwi22aae@ieng6-203]:~:398$ cd inlabw9/markdown-parse-main/
+]0;[cs15lwi22]  cs15lwi22aae@ieng6-203.ucsd.edu:/home/linux/ieng6/cs15lwi22/cs15lwi22aae/inlabw9/markdown-parse-main[cs15lwi22aae@ieng6-203]:markdown-parse-main:399$ ls
+MarkdownParse.class    MarkdownParseTest.class  makefile     script.sh      test-file4.md  test-file8.md
+MarkdownParse.java     MarkdownParseTest.java   makefile3    test-file.md   test-file5.md  [0m[01;34mtest-files[0m
+MarkdownParseMe.class  an-f.txt                 mdparse      test-file2.md  test-file6.md  typescript
+MarkdownParseMe.java   [01;34mlib[0m                      results.txt  test-file3.md  test-file7.md
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:400$ [K[cs15lwi22aae@ieng6-203]:markdown-parse-main:400$ [K[cs15lwi22aae@ieng6-203]:markdown-parse-main:400$ make
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParse.java
+javac -g -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/commonmark-0.18.1.jar:. MarkdownParseTest.java
+[cs15lwi22aae@ieng6-203]:markdown-parse-main:401$ java MarkdownParse tetst   st-file/
+{test-files/522.md=[], test-files/224.md=[], test-files/247.md=[], test-files/488.md=[], test-files/201.md=[baz], test-files/465.md=[], test-files/545.md=[], test-files/625.md=[], test-files/121.md=[], test-files/385.md=[], test-files/109.md=[], test-files/648.md=[], test-files/407.md=[], test-files/144.md=[], test-files/167.md=[], test-files/442.md=[], test-files/58.md=[], test-files/282.md=[], test-files/362.md=[], test-files/580.md=[/url], test-files/82.md=[], test-files/24.md=[], test-files/271.md=[], test-files/110.md=[], test-files/374.md=[], test-files/93.md=[], test-files/315.md=[], test-files/579.md=[<url>], test-files/592.md=[], test-files/35.md=[], test-files/258.md=[], test-files/533.md=[], test-files/212.md=[], test-files/476.md=[], test-files/339.md=[], test-files/614.md=[], test-files/155.md=[], test-files/430.md=[], test-files/304.md=[], test-files/568.md=[], test-files/23.md=[], test-files/190.md=[], test-files/94.md=[], test-files/373.md=[], test-files/557.md=[], test-files/591.md=[], test-files/71.md=[], test-files/8.md=[], test-files/213.md=[], test-files/133.md=[], test-files/326.md=[], test-files/601.md=[], test-files/156.md=[], test-files/431.md=[], test-files/46.md=[], test-files/303.md=[], test-files/546.md=[], test-files/189.md=[], test-files/464.md=[], test-files/294.md=[], test-files/246.md=[], test-files/489.md=[], test-files/521.md=[baz*], test-files/626.md=[], test-files/122.md=[], test-files/408.md=[], test-files/108.md=[], test-files/351.md=[], test-files/57.md=[], test-files/510.md=[/uri], test-files/60.md=[], test-files/283.md=[], test-files/12.md=[], test-files/396.md=[], test-files/637.md=[], test-files/235.md=[], test-files/340.md=[], test-files/178.md=[], test-files/453.md=[], test-files/419.md=[], test-files/272.md=[], test-files/48.md=[], test-files/295.md=[], test-files/570.md=[], test-files/111.md=[], test-files/635.md=[], test-files/337.md=[], test-files/612.md=[], test-files/92.md=[], test-files/593.md=[], test-files/317.md=[], test-files/6.md=[], test-files/211.md=[], test-files/395.md=[], test-files/257.md=[], test-files/372.md=[], test-files/532.md=[], test-files/234.md=[], test-files/498.md=[], test-files/192.md=[], test-files/25.md=[], test-files/305.md=[], test-files/569.md=[], test-files/223.md=[], test-files/487.md=[], test-files/328.md=[], test-files/603.md=[], test-files/384.md=[], test-files/145.md=[], test-files/420.md=[], test-files/14.md=[/foo], test-files/466.md=[], test-files/509.md=[], test-files/558.md=[], test-files/59.md=[], test-files/107.md=[], test-files/646.md=[], test-files/134.md=[], test-files/268.md=[], test-files/543.md=[], test-files/455.md=[], test-files/581.md=[], test-files/547.md=[], test-files/222.md=[], test-files/69.md=[], test-files/383.md=[], test-files/245.md=[], test-files/520.md=[/uri], test-files/146.md=[], test-files/350.md=[], test-files/421.md=[/url], test-files/180.md=[], test-files/316.md=[], test-files/409.md=[], test-files/36.md=[], test-files/13.md=[], test-files/477.md=[], test-files/508.md=[], test-files/284.md=[], test-files/123.md=[], test-files/349.md=[], test-files/624.md=[], test-files/636.md=[], test-files/179.md=[], test-files/454.md=[], test-files/582.md=[], test-files/47.md=[], test-files/200.md=[], test-files/273.md=[], test-files/112.md=[], test-files/647.md=[], test-files/338.md=[], test-files/613.md=[], test-files/168.md=[], test-files/443.md=[], test-files/559.md=[], test-files/70.md=[], test-files/7.md=[], test-files/256.md=[], test-files/531.md=[/uri], test-files/499.md=[foo\], test-files/157.md=[], test-files/432.md=[/url], test-files/327.md=[], test-files/361.md=[], test-files/602.md=[], test-files/81.md=[], test-files/191.md=[], test-files/96.md=[], test-files/73.md=[], test-files/182.md=[], test-files/38.md=[], test-files/15.md=[], test-files/50.md=[], test-files/404.md=[], test-files/536.md=[], test-files/106.md=[], test-files/513.md=[/uri], test-files/347.md=[], test-files/158.md=[], test-files/301.md=[], test-files/565.md=[], test-files/324.md=[], test-files/588.md=[], test-files/135.md=[], test-files/267.md=[], test-files/416.md=[], test-files/296.md=[], test-files/49.md=[], test-files/628.md=[], test-files/244.md=[], test-files/502.md=[foo%20b&auml;], test-files/554.md=[], test-files/336.md=[], test-files/462.md=[], test-files/427.md=[], test-files/285.md=[], test-files/5.md=[], test-files/124.md=[], test-files/233.md=[], test-files/497.md=[], test-files/639.md=[], test-files/209.md=[], test-files/394.md=[], test-files/62.md=[], test-files/193.md=[], test-files/451.md=[], test-files/297.md=[], test-files/274.md=[], test-files/486.md=[], test-files/524.md=[/uri], test-files/604.md=[], test-files/113.md=[], test-files/501.md=[foo\bar], test-files/599.md=[], test-files/405.md=[], test-files/428.md=[], test-files/169.md=[], test-files/312.md=[], test-files/617.md=[], test-files/232.md=[], test-files/255.md=[], test-files/393.md=[], test-files/360.md=[], test-files/473.md=[/url], test-files/450.md=[], test-files/439.md=[], test-files/74.md=[], test-files/221.md=[], test-files/382.md=[], test-files/359.md=[], test-files/651.md=[], test-files/577.md=[train.jpg], test-files/147.md=[], test-files/181.md=[], test-files/37.md=[], test-files/210.md=[], test-files/535.md=[], test-files/85.md=[], test-files/371.md=[], test-files/640.md=[], test-files/105.md=[], test-files/266.md=[], test-files/348.md=[], test-files/136.md=[], test-files/170.md=[], test-files/26.md=[], test-files/323.md=[], test-files/566.md=[], test-files/381.md=[], test-files/606.md=[], test-files/243.md=[], test-files/650.md=[], test-files/220.md=[], test-files/484.md=[], test-files/148.md=[], test-files/555.md=[], test-files/314.md=[], test-files/578.md=[], test-files/286.md=[], test-files/475.md=[], test-files/125.md=[], test-files/208.md=[], test-files/615.md=[], test-files/638.md=[], test-files/40.md=[], test-files/452.md=[], test-files/72.md=[], test-files/523.md=[baz], test-files/544.md=[], test-files/275.md=[], test-files/114.md=[], test-files/357.md=[], test-files/219.md=[], test-files/183.md=[], test-files/254.md=[], test-files/649.md=[], test-files/51.md=[], test-files/39.md=[], test-files/406.md=[], test-files/441.md=[], test-files/83.md=[], test-files/346.md=[], test-files/512.md=[/uri], test-files/325.md=[], test-files/589.md=[], test-files/172.md=[], test-files/417.md=[], test-files/159.md=[], test-files/28.md=[], test-files/440.md=[], test-files/463.md=[], test-files/358.md=[], test-files/627.md=[], test-files/335.md=[], test-files/4.md=[], test-files/534.md=[], test-files/84.md=[], test-files/370.md=[], test-files/496.md=[], test-files/104.md=[], test-files/511.md=[/uri], test-files/171.md=[], test-files/265.md=[], test-files/137.md=[], test-files/194.md=[url], test-files/27.md=[], test-files/418.md=[/url], test-files/567.md=[], test-files/61.md=[], test-files/605.md=[], test-files/95.md=[], test-files/485.md=[<>], test-files/500.md=[#fragment, http://example.com#fragment, http://example.com?foo=3#frag], test-files/242.md=[], test-files/313.md=[], test-files/590.md=[], test-files/16.md=[], test-files/160.md=[], test-files/429.md=[], test-files/556.md=[], test-files/298.md=[], test-files/126.md=[], test-files/474.md=[], test-files/369.md=[], test-files/616.md=[], test-files/392.md=[], test-files/231.md=[], test-files/287.md=[], test-files/302.md=[], test-files/115.md=[], test-files/356.md=[], test-files/379.md=[], test-files/631.md=[], test-files/138.md=[], test-files/333.md=[], test-files/413.md=[], test-files/597.md=[], test-files/218.md=[], test-files/253.md=[], test-files/2.md=[], test-files/516.md=[moon.jpg], test-files/539.md=[], test-files/276.md=[], test-files/551.md=[], test-files/299.md=[], test-files/310.md=[], test-files/574.md=[/url], test-files/150.md=[], test-files/391.md=[], test-files/619.md=[], test-files/230.md=[], test-files/29.md=[], test-files/494.md=[\(foo\)], test-files/173.md=[], test-files/196.md=[], test-files/471.md=[], test-files/380.md=[], test-files/162.md=[], test-files/607.md=[], test-files/30.md=[], test-files/206.md=[], test-files/483.md=[./target.md], test-files/76.md=[], test-files/149.md=[], test-files/424.md=[], test-files/18.md=[], test-files/642.md=[], test-files/87.md=[], test-files/264.md=[], test-files/505.md=[], test-files/103.md=[], test-files/367.md=[], test-files/41.md=[], test-files/459.md=[], test-files/321.md=[], test-files/585.md=[], test-files/17.md=[], test-files/241.md=[], test-files/161.md=[], test-files/184.md=[], test-files/425.md=[], test-files/52.md=[], test-files/345.md=[], test-files/620.md=[], test-files/127.md=[], test-files/402.md=[], test-files/88.md=[], test-files/368.md=[], test-files/643.md=[], test-files/229.md=[], test-files/504.md=[], test-files/65.md=[], test-files/458.md=[], test-files/527.md=[], test-files/309.md=[], test-files/586.md=[], test-files/288.md=[], test-files/563.md=[], test-files/116.md=[], test-files/99.md=[], test-files/252.md=[], test-files/3.md=[], test-files/277.md=[], test-files/552.md=[], test-files/334.md=[], test-files/447.md=[], test-files/538.md=[], test-files/207.md=[], test-files/195.md=[], test-files/470.md=[], test-files/495.md=[foo(and(bar))], test-files/436.md=[], test-files/629.md=[], test-files/140.md=[], test-files/163.md=[], test-files/228.md=[], test-files/503.md=["title"], test-files/205.md=[], test-files/54.md=[], test-files/31.md=[], test-files/186.md=[], test-files/19.md=[], test-files/461.md=[], test-files/449.md=[], test-files/343.md=[], test-files/86.md=[], test-files/263.md=[], test-files/240.md=[], test-files/389.md=[], test-files/102.md=[], test-files/366.md=[], test-files/641.md=[], test-files/63.md=[], test-files/437.md=[], test-files/139.md=[], test-files/332.md=[], test-files/414.md=[], test-files/97.md=[], test-files/378.md=[], test-files/515.md=[/uri], test-files/311.md=[], test-files/575.md=[], test-files/151.md=[], test-files/128.md=[], test-files/403.md=[/url], test-files/390.md=[], test-files/618.md=[], test-files/216.md=[], test-files/289.md=[], test-files/300.md=[], test-files/564.md=[], test-files/20.md=[], test-files/493.md=[<b, <b, <b>c], test-files/526.md=[], test-files/197.md=[], test-files/472.md=[/url], test-files/415.md=[], test-files/438.md=[], test-files/117.md=[], test-files/251.md=[], test-files/608.md=[], test-files/98.md=[], test-files/377.md=[], test-files/652.md=[], test-files/278.md=[], test-files/482.md=[/uri], test-files/553.md=[], test-files/537.md=[], test-files/75.md=[], test-files/448.md=[], test-files/576.md=[], test-files/152.md=[], test-files/217.md=[], test-files/42.md=[], test-files/322.md=[], test-files/630.md=[], test-files/355.md=[], test-files/525.md=[uri], test-files/290.md=[], test-files/598.md=[], test-files/185.md=[], test-files/426.md=[], test-files/460.md=[], test-files/53.md=[], test-files/344.md=[], test-files/239.md=[], test-files/514.md=[/uri], test-files/262.md=[], test-files/174.md=[], test-files/587.md=[], test-files/64.md=[], test-files/21.md=[], test-files/291.md=[], test-files/480.md=[], test-files/129.md=[], test-files/238.md=[], test-files/645.md=[], test-files/215.md=[], test-files/479.md=[], test-files/622.md=[], test-files/433.md=[], test-files/456.md=[], test-files/399.md=[], test-files/410.md=[], test-files/542.md=[], test-files/67.md=[], test-files/548.md=[], test-files/44.md=[], test-files/571.md=[], test-files/141.md=[], test-files/307.md=[], test-files/353.md=[], test-files/519.md=[uri1], test-files/118.md=[], test-files/250.md=[], test-files/227.md=[], test-files/445.md=[], test-files/279.md=[], test-files/611.md=[], test-files/187.md=[], test-files/55.md=[], test-files/342.md=[/foo`], test-files/318.md=[], test-files/560.md=[], test-files/388.md=[], test-files/130.md=[], test-files/176.md=[], test-files/306.md=[], test-files/331.md=[], test-files/572.md=[], test-files/142.md=[], test-files/249.md=[], test-files/329.md=[], test-files/354.md=[], test-files/226.md=[], test-files/79.md=[], test-files/467.md=[], test-files/518.md=[/uri], test-files/444.md=[], test-files/280.md=[], test-files/387.md=[], test-files/530.md=[moon.jpg], test-files/261.md=[], test-files/492.md=[<foo\>], test-files/198.md=[], test-files/175.md=[], test-files/80.md=[], test-files/164.md=[], test-files/376.md=[], test-files/609.md=[], test-files/634.md=[], test-files/91.md=[], test-files/481.md=[], test-files/422.md=[], test-files/204.md=[], test-files/32.md=[], test-files/594.md=[], test-files/583.md=[], test-files/153.md=[], test-files/478.md=[], test-files/365.md=[], test-files/507.md=[], test-files/541.md=[], test-files/623.md=[], test-files/119.md=[], test-files/411.md=[], test-files/68.md=[], test-files/549.md=[], test-files/43.md=[], test-files/308.md=[], test-files/490.md=[], test-files/375.md=[], test-files/469.md=[], test-files/352.md=[], test-files/77.md=[], test-files/423.md=[], test-files/9.md=[], test-files/446.md=[], test-files/11.md=[], test-files/154.md=[], test-files/561.md=[], test-files/131.md=[], test-files/400.md=[], test-files/506.md=[/url?"title"], test-files/529.md=[], test-files/177.md=[], test-files/320.md=[], test-files/584.md=[], test-files/248.md=[], test-files/596.md=[], test-files/269.md=[], test-files/550.md=[], test-files/632.md=[], test-files/120.md=[], test-files/292.md=[], test-files/202.md=[], test-files/166.md=[], test-files/34.md=[], test-files/621.md=[], test-files/281.md=[], test-files/237.md=[], test-files/260.md=[], test-files/398.md=[], test-files/600.md=[], test-files/66.md=[], test-files/363.md=[], test-files/434.md=[], test-files/45.md=[], test-files/595.md=[], test-files/165.md=[], test-files/188.md=[], test-files/633.md=[], test-files/270.md=[], test-files/90.md=[], test-files/203.md=[], test-files/293.md=[], test-files/610.md=[], test-files/33.md=[], test-files/56.md=[], test-files/259.md=[], test-files/319.md=[], test-files/364.md=[], test-files/236.md=[], test-files/397.md=[], test-files/540.md=[], test-files/341.md=[], test-files/435.md=[], test-fi
