@@ -1,0 +1,153 @@
+20c20
+< test-files/12.md 	[\*\+\,\-\.\/\:\;\<\=\>\]
+---
+> test-files/12.md 	[]
+42c42
+< test-files/14.md 	[1\. not a list]
+---
+> test-files/14.md 	[/foo]
+102c102
+< test-files/194.md 	[]
+---
+> test-files/194.md 	[url]
+111c111
+< test-files/201.md 	[]
+---
+> test-files/201.md 	[baz]
+267c267
+< test-files/342.md 	[]
+---
+> test-files/342.md 	[/foo`]
+335c335
+< test-files/403.md 	[]
+---
+> test-files/403.md 	[/url]
+351c351
+< test-files/418.md 	[]
+---
+> test-files/418.md 	[/url]
+355c355
+< test-files/421.md 	[]
+---
+> test-files/421.md 	[/url]
+367c367
+< test-files/432.md 	[]
+---
+> test-files/432.md 	[/url]
+411,412c411,412
+< test-files/472.md 	[]
+< test-files/473.md 	[]
+---
+> test-files/472.md 	[/url]
+> test-files/473.md 	[/url]
+422,423c422,423
+< test-files/482.md 	[]
+< test-files/483.md 	[./target.md, ./target.md]
+---
+> test-files/482.md 	[/uri]
+> test-files/483.md 	[./target.md]
+425c425
+< test-files/485.md 	[]
+---
+> test-files/485.md 	[<>]
+432,436c432,436
+< test-files/491.md 	[]
+< test-files/492.md 	[]
+< test-files/493.md 	[]
+< test-files/494.md 	[]
+< test-files/495.md 	[]
+---
+> test-files/491.md 	[<b]
+> test-files/492.md 	[<foo\>]
+> test-files/493.md 	[<b, <b, <b>c]
+> test-files/494.md 	[\(foo\)]
+> test-files/495.md 	[foo(and(bar))]
+440c440
+< test-files/499.md 	[]
+---
+> test-files/499.md 	[foo\]
+443,446c443,446
+< test-files/500.md 	[http://example., http://example.com?foo=3#frag]
+< test-files/501.md 	[]
+< test-files/502.md 	[]
+< test-files/503.md 	[]
+---
+> test-files/500.md 	[#fragment, http://example.com#fragment, http://example.com?foo=3#frag]
+> test-files/501.md 	[foo\bar]
+> test-files/502.md 	[foo%20b&auml;]
+> test-files/503.md 	["title"]
+449c449
+< test-files/506.md 	[]
+---
+> test-files/506.md 	[/url?"title"]
+454,459c454,459
+< test-files/510.md 	[]
+< test-files/511.md 	[]
+< test-files/512.md 	[]
+< test-files/513.md 	[]
+< test-files/514.md 	[]
+< test-files/515.md 	[]
+---
+> test-files/510.md 	[/uri]
+> test-files/511.md 	[/uri]
+> test-files/512.md 	[/uri]
+> test-files/513.md 	[/uri]
+> test-files/514.md 	[/uri]
+> test-files/515.md 	[/uri]
+461,463c461,463
+< test-files/517.md 	[]
+< test-files/518.md 	[]
+< test-files/519.md 	[]
+---
+> test-files/517.md 	[/uri]
+> test-files/518.md 	[/uri]
+> test-files/519.md 	[uri1]
+465,466c465,466
+< test-files/520.md 	[]
+< test-files/521.md 	[]
+---
+> test-files/520.md 	[/uri]
+> test-files/521.md 	[baz*]
+468,470c468,470
+< test-files/523.md 	[]
+< test-files/524.md 	[]
+< test-files/525.md 	[foo<http://example.com/?search=]
+---
+> test-files/523.md 	[baz]
+> test-files/524.md 	[/uri]
+> test-files/525.md 	[uri]
+477c477
+< test-files/531.md 	[]
+---
+> test-files/531.md 	[/uri]
+483c483
+< test-files/537.md 	[foo<http://example.com/?search=]
+---
+> test-files/537.md 	[]
+522,526c522,526
+< test-files/572.md 	[: train.jpg "tra]
+< test-files/573.md 	[]
+< test-files/574.md 	[]
+< test-files/575.md 	[: train.jpg "t]
+< test-files/576.md 	[: train.jpg]
+---
+> test-files/572.md 	[]
+> test-files/573.md 	[/url]
+> test-files/574.md 	[/url]
+> test-files/575.md 	[]
+> test-files/576.md 	[]
+528,529c528,529
+< test-files/578.md 	[/path/to/train.jpg  "title"]
+< test-files/579.md 	[]
+---
+> test-files/578.md 	[]
+> test-files/579.md 	[<url>]
+531c531
+< test-files/580.md 	[]
+---
+> test-files/580.md 	[/url]
+556c556,557
+< test-files/602.md 	test-files/603.md 	[]
+---
+> test-files/602.md 	[]
+> test-files/603.md 	[]

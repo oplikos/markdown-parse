@@ -83,13 +83,13 @@ public class MarkdownParse {
         return toReturn;
     }
     public static void main(String[] args) throws IOException {
-      Map<String, List<String>> result = getLinks(new File("test-files/"));
-      System.out.println(result);
+    //   Map<String, List<String>> result = getLinks(new File("test-files/"));
+    //   System.out.println(result);
       
-        /*Path fileName = Path.of(args[0]);
+        Path fileName = Path.of(args[0]);
         String contents = Files.readString(fileName);
         ArrayList<String> links = getLinks(contents);
         System.out.println(links);
-    */
+    
     }
 }

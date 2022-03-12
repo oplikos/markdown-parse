@@ -8,6 +8,7 @@ import java.util.List;
 public class MarkdownParseMe {
     public static ArrayList<String> getLinks(String markdown) {
         boolean debug = false;
+        int nextOpenBracket=0;
         ArrayList<String> toReturn = new ArrayList<>();
         // find the next [, then find the ], then find the (, then take up to
         // the next )
@@ -20,6 +21,10 @@ public class MarkdownParseMe {
         //initilizing all variabls
         int currentIndex = 0,startIndex = 0 , endIndex = 0,nextPeriodIndex =0 ;
         //check for '.' in the file (if exsist that means there is a link)
+        nextOpenBracket = markdown.indexOf("[", currentIndex);   
+        if (nextOpenBracket ==-1){
+            return toReturn;
+        }
         while(currentIndex < markdown.length()) {
             nextPeriodIndex = markdown.indexOf(".", currentIndex + 1);
             if(nextPeriodIndex != -1) {
@@ -43,6 +48,8 @@ public class MarkdownParseMe {
                 startIndex--;
             }
             while(endIndex < markdown.length()) {
+                if(endIndex+1 == ')') 
+                    break;
                 if(stopCharacters.contains(markdown.charAt(endIndex))) {
                     endIndex--;
                     break;
